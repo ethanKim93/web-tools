@@ -1,0 +1,32 @@
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE could not resolve
+npm ERR! 
+npm ERR! While resolving: web-tools@0.0.1
+npm ERR! Found: vite@2.9.16
+npm ERR! node_modules/vite
+npm ERR!   peer vite@"^2.0.0" from @intlify/vite-plugin-vue-i18n@3.4.0
+npm ERR!   node_modules/@intlify/vite-plugin-vue-i18n
+npm ERR!     dev @intlify/vite-plugin-vue-i18n@"^3.3.1" from the root project
+npm ERR!   vite@"^2.9.13" from @quasar/app-vite@1.4.3
+npm ERR!   node_modules/@quasar/app-vite
+npm ERR!     dev @quasar/app-vite@"^1.0.0" from the root project
+npm ERR!   2 more (@quasar/vite-plugin, @vitejs/plugin-vue)
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! dev @storybook/vue3-vite@"7.2.3" from the root project
+npm ERR! 
+npm ERR! Conflicting peer dependency: vite@4.4.9
+npm ERR! node_modules/vite
+npm ERR!   peer vite@"^3.0.0 || ^4.0.0" from @storybook/vue3-vite@7.2.3
+npm ERR!   node_modules/@storybook/vue3-vite
+npm ERR!     dev @storybook/vue3-vite@"7.2.3" from the root project
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! 
+npm ERR! For a full report see:
+npm ERR! C:\Users\wsmhk\AppData\Local\npm-cache\_logs\2023-08-14T01_20_26_685Z-eresolve-report.txt
+
+npm ERR! A complete log of this run can be found in: C:\Users\wsmhk\AppData\Local\npm-cache\_logs\2023-08-14T01_20_26_685Z-debug-0.log
